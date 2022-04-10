@@ -18,6 +18,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [Hewlett Packard HP LaserJet 4](https://ebay.us/6eOpcz)
 * [Brother HL-L5100DN](https://ebay.us/EBpS0o)
 * [Brother HL-1110](https://ebay.us/v5sLV9) - this one is only a bargain if used with [Brother HL-1110 compatible toners and drums](https://ebay.us/v5sLV9)
+* [Kyocera FS-1118MFP](https://ebay.us/sYyXnR) - great printer with cheap price-per-page. [Works perfeclty with PPD on Linux and Mac OS](https://www.openprinting.org/printer/Kyocera/Kyocera-FS-1118MFP)
 
 ## Scanners
 * [Fujitsu ScanSnap Series](https://ebay.us/VssEue)
