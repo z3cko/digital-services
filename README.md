@@ -1,4 +1,4 @@
-# digital-services
+# Overview of reviewed and suggested services and tools for the Nomad Nerd.
 Curated list of tools and services for the digital nomad and travelling nerd. Including bitcoin, crypto, diy and hardware.
 
 # Hardware
