@@ -72,6 +72,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 
 ## Digital Currency Exchanges
 
+* [Binance Exchange](https://www.binance.com/en/register?ref=Q93IAC37)
 * [Poloniex Crypto exchange](https://poloniex.com/signup?c=Z8MM6FB6)
 
 ## Crypto cards
