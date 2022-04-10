@@ -57,6 +57,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [ASUS Xonar DX 7.1, PCIe x1 (90-YAA060–1UAN00Z)](https://ebay.us/kHExTI)
 * [SHURE XLR microphones](https://ebay.us/RHISva)
 * [Native Instruments Audio 8 DJ USB](https://ebay.us/XFMiU9) - 8 inputs, 8 outputs. Toggleable phono preamps on 4 inputs.
+* [HP HyperX Cloud Orbit S ](https://ebay.us/Wm02yl) - confirmed to work with Linux [Pipewire and Pulseaudio](https://www.reddit.com/r/linuxhardware/comments/o9hwr1/suggested_headset_with_superior_sound_and_wired/)
 
 # Cloud services and hosting
 * [$20 coupon for Hetzner Cloud](https://hetzner.cloud/?ref=IqAaoRsf4wVN)
