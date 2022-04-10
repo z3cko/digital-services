@@ -1,4 +1,4 @@
-# Reviewed tools and services for the Nomad Nerd
+# Tools and services for the Nomad Nerd
 [Please enter suggestions, errors and other things via Github Issues.](https://github.com/z3cko/digital-services/issues)
 
 - [Hardware](#hardware)
@@ -57,6 +57,9 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [ASUS Xonar DX 7.1, PCIe x1 (90-YAA060–1UAN00Z)](https://ebay.us/kHExTI)
 * [SHURE XLR microphones](https://ebay.us/RHISva)
 * [Native Instruments Audio 8 DJ USB](https://ebay.us/XFMiU9) - 8 inputs, 8 outputs. Toggleable phono preamps on 4 inputs.
+
+# Cloud services and hosting
+* [$20 coupon for Hetzner Cloud](https://hetzner.cloud/?ref=IqAaoRsf4wVN)
 
 # Cybersecurity and Cryptography
 
