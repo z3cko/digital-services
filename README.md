@@ -10,8 +10,13 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [Lenovo Thinkpad L14 AMD (Gen1, Gen2 or Gen3)](https://amzn.to/3LVQxoC) - the perfect Linux notebook. A perfect way to upcycle is [buying the L14 or L15 AMD Ryzen second-hand.](https://ebay.us/LMXg1S)
 
 ## Printers
-* [Hewlett Packard HP LaserJet 4](https://ebay.us/6eOpcz)
+
+### Inkjet
 * [Epson EcoTank ET-2750](https://ebay.us/rGc0bg)
+
+### Laser
+* [Hewlett Packard HP LaserJet 4](https://ebay.us/6eOpcz)
+* [Brother HL-L5100DN](https://ebay.us/EBpS0o)
 
 ## Scanners
 * [Fujitsu ScanSnap Series](https://ebay.us/VssEue)
