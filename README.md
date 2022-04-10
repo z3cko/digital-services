@@ -74,3 +74,6 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 
 * [Poloniex Crypto exchange](https://poloniex.com/signup?c=Z8MM6FB6)
 
+## Crypto cards
+
+* [Wirex](https://wirexapp.com/r/rdncecnm2u) - great Fiat<>Crypto service based in the UK. Also available for EU banking
