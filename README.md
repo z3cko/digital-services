@@ -11,10 +11,15 @@
     + [Laser](#laser)
   * [Scanners](#scanners)
   * [Sound](#sound)
+    + [Soundcards](#soundcards)
+    + [Microphones](#microphones)
+    + [Headsets](#headsets)
+- [Cloud services and hosting](#cloud-services-and-hosting)
 - [Cybersecurity and Cryptography](#cybersecurity-and-cryptography)
   * [2FA and hardware security](#2fa-and-hardware-security)
 - [Cryptocurrency](#cryptocurrency)
   * [Digital Currency Exchanges](#digital-currency-exchanges)
+  * [Crypto cards](#crypto-cards)
 
 
 # Hardware
@@ -31,6 +36,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 ### Keyboards
 
 * [Durgod Taurus K320 TKL Mechanical Keyboard)](https://amzn.to/3KvYVuP) - Double Shot PBT, USB Type C, Cherry Brown switches
+* [HHKB Happy Hacking Keyboards](https://ebay.us/qltUzC) - Topre switches, collector's items Japanese quality keyboards for enthusiasts.
 
 ### Mice
 * [Logitech MX Master 3 Advanced Wireless Mouse](https://amzn.to/3unwsBU) - bluetooth mouse for Linux, Mac, Win, Android and iOS (Linux support via [Solaar](https://github.com/pwr-Solaar/Solaar))
@@ -53,10 +59,16 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 
 
 ## Sound
+
+### Soundcards
 * [Focusrite Scarlett Solo 3rd Gen USB Audio Interface](https://amzn.to/3jm0CPt)
 * [ASUS Xonar DX 7.1, PCIe x1 (90-YAA060–1UAN00Z)](https://ebay.us/kHExTI)
-* [SHURE XLR microphones](https://ebay.us/RHISva)
 * [Native Instruments Audio 8 DJ USB](https://ebay.us/XFMiU9) - 8 inputs, 8 outputs. Toggleable phono preamps on 4 inputs.
+
+### Microphones
+* [SHURE XLR microphones](https://ebay.us/RHISva)
+
+### Headsets
 * [HP HyperX Cloud Orbit S ](https://ebay.us/Wm02yl) - confirmed to work with Linux [Pipewire and Pulseaudio](https://www.reddit.com/r/linuxhardware/comments/o9hwr1/suggested_headset_with_superior_sound_and_wired/)
 
 # Cloud services and hosting
