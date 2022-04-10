@@ -8,6 +8,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 ## Notebooks
 
 * [Lenovo Thinkpad L14 AMD (Gen1, Gen2 or Gen3)](https://amzn.to/3LVQxoC) - the perfect Linux notebook. A perfect way to upcycle is [buying the L14 or L15 AMD Ryzen second-hand.](https://ebay.us/LMXg1S)
+* [ASUS ROG Strix G15 AMD](https://amzn.to/3rh2oG1) - high performance Linux workstation, with support for Ryzen 9 and 5900HX and Ryzen 9 6900HX. Upgradeable to 64GB RAM.
 
 ## Printers
 
