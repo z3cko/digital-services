@@ -33,8 +33,8 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [Durgod Taurus K320 TKL Mechanical Keyboard)](https://amzn.to/3KvYVuP) - Double Shot PBT, USB Type C, Cherry Brown switches
 
 ### Mice
-* [Logitech MX Master 3 Advanced Wireless Mouse](https://amzn.to/3unwsBU) - bluetooth mouse for Linux, Mac, Win, Android and iOS.
-* [Razer DeathAdder Essential Gaming Mouse](https://amzn.to/3up5RV8) - Razer gaming mouse with full Linux support.
+* [Logitech MX Master 3 Advanced Wireless Mouse](https://amzn.to/3unwsBU) - bluetooth mouse for Linux, Mac, Win, Android and iOS (Linux support via [Solaar](https://github.com/pwr-Solaar/Solaar))
+* [Razer DeathAdder Essential Gaming Mouse](https://amzn.to/3up5RV8) - Razer gaming mouse with full Linux support (Linux support via [openrazer](https://github.com/openrazer/openrazer/))
 
 
 ## Printers
