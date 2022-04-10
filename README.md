@@ -20,6 +20,12 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [Logitech MX Master 3 Advanced Wireless Mouse](https://amzn.to/3unwsBU) - bluetooth mouse for Linux, Mac, Win, Android and iOS.
 * [Razer DeathAdder Essential Gaming Mouse](https://amzn.to/3up5RV8) - Razer gaming mouse with full Linux support.
 
+## Sound
+* [Focusrite Scarlett Solo 3rd Gen USB Audio Interface](https://amzn.to/3jm0CPt)
+* [ASUS Xonar DX 7.1, PCIe x1 (90-YAA060–1UAN00Z)](https://ebay.us/kHExTI)
+* [SHURE XLR microphones](https://ebay.us/RHISva)
+* [Native Instruments Audio 8 DJ USB](https://ebay.us/XFMiU9) - 8 inputs, 8 outputs. Toggleable phono preamps on 4 inputs.
+
 # 2FA and hardware security
 
 ## Hardware Wallets
