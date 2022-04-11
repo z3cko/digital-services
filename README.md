@@ -78,6 +78,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [SHURE XLR microphones](https://ebay.us/RHISva)
 
 ### Headsets
+* [Austrian Audio Hi-X25BT Professional Closed-Back Bluetooth Headphones](https://ebay.us/DXiAHD) - great headset with Bluetooth, USB-C (digital), analogue (3.5mm headphone jack) and included microphone
 * [HP HyperX Cloud Orbit S ](https://ebay.us/Wm02yl) - confirmed to work with Linux [Pipewire and Pulseaudio](https://www.reddit.com/r/linuxhardware/comments/o9hwr1/suggested_headset_with_superior_sound_and_wired/)
 
 # Cloud services and hosting
