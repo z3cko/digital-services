@@ -1,5 +1,9 @@
 # Tools and services for the Nomad Nerd
-[Please enter suggestions, errors and other things via Github Issues.](https://github.com/z3cko/digital-services/issues)
+
+Curated list of tools and services for the digital nomad and travelling nerd. Including bitcoin, crypto, diy and hardware. 
+[Please enter additions, suggestions, errors and other things via Github Issues.](https://github.com/z3cko/digital-services/issues)
+
+You can read my articles on my blog at [opengears.medium.com](https://opengears.medium.com/)
 
 - [Hardware](#hardware)
   * [Notebooks](#notebooks)
@@ -23,8 +27,10 @@
 
 
 # Hardware
-Overview of hardware suitable for Linux, Mac and Windows. This is a collection of gear that I personally own and have reviewed.
+Overview of hardware suitable for Linux, Mac and Windows. This is a collection of gear that I personally own and have reviewed. Criteria for this list: 
 
+* hardware needs to work with Linux as well as with Mac OS X
+* needs to be as open as possible (ideally open source hardware or fully open repair manuals available)
 
 ## Notebooks
 
@@ -34,7 +40,6 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [ASUS ROG Strix G15 AMD](https://amzn.to/3rh2oG1) - high performance Linux workstation, with support for Ryzen 9 and 5900HX and Ryzen 9 6900HX. Upgradeable to 64GB RAM.
 * [ThinkPad X200 Tablet with Coreboot/Libreboot](https://ebay.us/g5KuxN) - hardened high-security Laptop without Intel ME for key generation
 * [GPD Pocket 3](https://ebay.us/aFAg8D) - mini 8" pocket computer [capable of running Linux](https://liliputing.com/2021/11/running-linux-on-the-gpd-pocket-3-mini-laptop.html)
-
 
 ## Mobile phones and tablets
 * [Hardened Google Pixel 6](https://ebay.us/N1S3Xm) - make sure to install CalyxOS or GrapheneOS.
@@ -66,6 +71,10 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 ## Scanners
 * [Fujitsu ScanSnap Series](https://ebay.us/VssEue)
 
+## Video and recording
+
+* [Sony A7 (ILCE-7)](https://ebay.us/t9JyPO) - the Sony A7 (and the A7 II, as well as subsequent models) have clean HDMI output. These are the best possible "webcams" in case you are an influencer or want the best possible video recording for your Linux or Mac OS X machine.
+* [HDMI Video Capture Card USB-C, 4K](https://amzn.to/3M8qn25) - 4K/1080 60 FPS capture card that works with Linux and Mac OSX.
 
 ## Sound
 
