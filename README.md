@@ -45,6 +45,15 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [Hardened Google Pixel 6](https://ebay.us/N1S3Xm) - make sure to install CalyxOS or GrapheneOS.
 * [PinePhone Linux Phone](https://ebay.us/zuSgE3) - Quad-Core Allwinner A64 @ 1.152 GHz; you can [get more information at the Pine64 website](https://www.pine64.org/pinephone/)
 
+## Libre wireless routers
+
+Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and [OpenWRT](https://openwrt.org/). 
+
+* [Netgear WNDR3800](https://ebay.us/QHAxwu)
+* [TP-Link TL-WR842ND](https://ebay.us/Sangcf)
+* [TP-Link TL-WR1043ND](https://ebay.us/4ewRo2)
+
+
 ## Input devices
 
 ### Keyboards
