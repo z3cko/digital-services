@@ -116,8 +116,7 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 ## Digital Currency Exchanges
 
 * [Binance Exchange](https://www.binance.com/en/register?ref=Q93IAC37)
+* [Bitfinex](https://www.bitfinex.com/sign-up?refcode=19-lHYAit) - good and solid centralized exchange
 * [Poloniex Crypto exchange](https://poloniex.com/signup?c=Z8MM6FB6)
+* [Wirex](https://wirexapp.com/r/rdncecnm2u) - great Fiat<>Crypto service based in the UK. Also available for EU banking (including Visa card)
 
-## Crypto cards
-
-* [Wirex](https://wirexapp.com/r/rdncecnm2u) - great Fiat<>Crypto service based in the UK. Also available for EU banking
