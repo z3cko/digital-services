@@ -7,6 +7,8 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
 
 - [Hardware](#hardware)
   * [Notebooks](#notebooks)
+  * [Mobile phones and tablets](#mobile-phones-and-tablets)
+  * [Libre wireless routers](#libre-wireless-routers)
   * [Input devices](#input-devices)
     + [Keyboards](#keyboards)
     + [Mice](#mice)
@@ -14,6 +16,7 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
     + [Inkjet](#inkjet)
     + [Laser](#laser)
   * [Scanners](#scanners)
+  * [Video and recording](#video-and-recording)
   * [Sound](#sound)
     + [Soundcards](#soundcards)
     + [Microphones](#microphones)
@@ -24,7 +27,6 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
 - [Cryptocurrency](#cryptocurrency)
   * [Digital Currency Exchanges](#digital-currency-exchanges)
   * [Crypto cards](#crypto-cards)
-
 
 # Hardware
 Overview of hardware suitable for Linux, Mac and Windows. This is a collection of gear that I personally own and have reviewed. Criteria for this list: 
