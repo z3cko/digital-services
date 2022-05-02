@@ -110,6 +110,7 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 
 * [Trezor Hardware Wallet](https://shop.trezor.io/product/trezor-one-black?offer_id=35&aff_id=6069)
 * [Ledger Hardware Wallet](https://shop.ledger.com?r=eb1e)
+  * [Ledger Nano-S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus?r=eb1e)
 
 # Cryptocurrency
 
