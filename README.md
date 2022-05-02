@@ -51,7 +51,12 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 
 Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and [OpenWRT](https://openwrt.org/). 
 
+### OpenWRT compatible routers
 * [Turris Omnia](https://amzn.to/3LIg9pG) - fantastic Open Source router with 2GB RAM.
+* [TP-Link TL-WR1043ND](https://ebay.us/4ewRo2)
+* [Linksys WRT3200ACM](https://ebay.us/j4R1g0)
+
+### LibreCMC (de-blobbed libre Linux)
 * [Netgear WNDR3800](https://ebay.us/QHAxwu)
 * [TP-Link TL-WR842ND](https://ebay.us/Sangcf)
 * [TP-Link TL-WR1043ND](https://ebay.us/4ewRo2)
@@ -81,7 +86,9 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [Kyocera FS-1118MFP](https://ebay.us/sYyXnR) - great printer with cheap price-per-page. [Works perfeclty with PPD on Linux and Mac OS](https://www.openprinting.org/printer/Kyocera/Kyocera-FS-1118MFP)
 
 ## Scanners
+* [Fujitsu fi-8150](https://amzn.to/3LEf0iD)
 * [Fujitsu ScanSnap Series](https://ebay.us/VssEue)
+* [Epson B11B265401 WorkForce DS-790WN](https://amzn.to/3F4t42u)
 
 ## Video and recording
 
