@@ -51,6 +51,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 
 Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and [OpenWRT](https://openwrt.org/). 
 
+* [Turris Omnia](https://amzn.to/3LIg9pG) - fantastic Open Source router with 2GB RAM.
 * [Netgear WNDR3800](https://ebay.us/QHAxwu)
 * [TP-Link TL-WR842ND](https://ebay.us/Sangcf)
 * [TP-Link TL-WR1043ND](https://ebay.us/4ewRo2)
