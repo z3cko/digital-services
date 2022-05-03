@@ -80,7 +80,8 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [Epson EcoTank ET-2750](https://ebay.us/rGc0bg)
 
 ### Laser
-* [Hewlett Packard HP LaserJet 4](https://ebay.us/6eOpcz)
+* [Hewlett Packard HP LaserJet 4](https://ebay.us/6eOpcz) - a classic. If you can afford it and you can get your hands on one, this will last for decades.
+* [Brother HL-2030](https://t.co/eViUoj6gPp) - hard to find, but definitely one of the best printers to get spare parts and maintainance materials for. 2400x600dpi.
 * [Brother HL-L5100DN](https://ebay.us/EBpS0o)
 * [Brother HL-1110](https://ebay.us/v5sLV9) - this one is only a bargain if used with [Brother HL-1110 compatible toners and drums](https://ebay.us/v5sLV9)
 * [Kyocera FS-1118MFP](https://ebay.us/sYyXnR) - great printer with cheap price-per-page. [Works perfeclty with PPD on Linux and Mac OS](https://www.openprinting.org/printer/Kyocera/Kyocera-FS-1118MFP)
