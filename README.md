@@ -31,9 +31,9 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
 # Hardware
 Overview of hardware suitable for Linux, Mac and Windows. This is a collection of gear that I personally own and have reviewed. Criteria for this list: 
 
-* **compatibility** hardware needs to work with Linux as well as with Mac OS X
-* **open** gear needs to be as open as possible (ideally open source hardware or fully open repair manuals available)
-* **durability**: should be proven long-lasting gear
+* **compatibility**: hardware needs to work with Linux as well as with Mac OS X.
+* **open**: gear needs to be as open as possible (ideally open source hardware or fully open repair manuals available).
+* **durability**: should be proven long-lasting gear.
 
 ## Notebooks
 
