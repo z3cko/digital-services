@@ -94,8 +94,12 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 
 ## Video and recording
 
+## Cameras
 * [Sony A7 (ILCE-7)](https://ebay.us/t9JyPO) - the Sony A7 (and the A7 II, as well as subsequent models) have clean HDMI output. These are the best possible "webcams" in case you are an influencer or want the best possible video recording for your Linux or Mac OS X machine.
+
+## HDMI capture
 * [HDMI Video Capture Card USB-C, 4K](https://amzn.to/3M8qn25) - 4K/1080 60 FPS capture card that works with Linux and Mac OSX.
+* [Rybozen 4K Audio Video Capture Card, USB 3.0 HDMI Video Capture Device](https://amzn.to/3ybgr4g) - 4K or 1080p HDMI capture card for DSLR or consoles confirmed to work with Linux and Mac OS X out of the box.
 
 ## Sound
 
