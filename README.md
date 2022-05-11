@@ -127,9 +127,14 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [Ledger Hardware Wallet](https://shop.ledger.com?r=eb1e)
   * [Ledger Nano-S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus?r=eb1e)
 
-# Cryptocurrency
+# Markets
 
-## Digital Currency Exchanges
+## Market analytics
+* [Tradingview](https://www.tradingview.com/gopro/?share_your_love=audioreservoir) - here is a $30 coupon for TradingView
+
+## Cryptocurrency
+
+### Digital Currency Exchanges
 
 * [Binance Exchange](https://www.binance.com/en/register?ref=Q93IAC37)
 * [Bitfinex](https://www.bitfinex.com/sign-up?refcode=19-lHYAit) - good and solid centralized exchange
