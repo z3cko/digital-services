@@ -35,6 +35,9 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * **open**: gear needs to be as open as possible (ideally open source hardware or fully open repair manuals available).
 * **durability**: should be proven long-lasting gear.
 
+## Chargers
+* [Anker PowerPort III Nano](https://amzn.to/3QfdExM) - best 20W USB-C charger with Power Delivery
+
 ## Notebooks
 
 * [Lenovo Thinkpad L14 AMD (Gen1, Gen2 or Gen3)](https://amzn.to/3LVQxoC) - the perfect Linux notebook. A perfect way to upcycle is [buying the L14 or L15 AMD Ryzen second-hand.](https://ebay.us/LMXg1S)
