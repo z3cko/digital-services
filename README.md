@@ -29,7 +29,7 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
     + [Headsets](#headsets)
 - [Services and talent](#services-and-talent)
   * [Cloud services and hosting](#cloud-services-and-hosting)
-  * [Freelancers, talent and remote work](#freelancers--talent-and-remote-work)
+  * [Freelancers, talent and remote work](#freelancers-talent-and-remote-work)
 - [Cybersecurity and Cryptography](#cybersecurity-and-cryptography)
   * [2FA and hardware security](#2fa-and-hardware-security)
 - [Markets](#markets)
