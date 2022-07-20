@@ -119,8 +119,13 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [Austrian Audio Hi-X25BT Professional Closed-Back Bluetooth Headphones](https://ebay.us/DXiAHD) - great headset with Bluetooth, USB-C (digital), analogue (3.5mm headphone jack) and included microphone
 * [HP HyperX Cloud Orbit S ](https://ebay.us/Wm02yl) - confirmed to work with Linux [Pipewire and Pulseaudio](https://www.reddit.com/r/linuxhardware/comments/o9hwr1/suggested_headset_with_superior_sound_and_wired/)
 
-# Cloud services and hosting
+# Services and talent
+
+## Cloud services and hosting
 * [$20 coupon for Hetzner Cloud](https://hetzner.cloud/?ref=IqAaoRsf4wVN)
+
+## Freelancers, talent and remote work
+* [$100 coupon for Fiverr](http://www.fiverr.com/s2/46ef8ec9e7)
 
 # Cybersecurity and Cryptography
 
