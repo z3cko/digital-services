@@ -121,6 +121,7 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [Native Instruments Audio 8 DJ USB](https://ebay.us/XFMiU9) - 8 inputs, 8 outputs. Toggleable phono preamps on 4 inputs.
 
 ### Microphones
+* [SHURE MV7 motiv podcasting microphone USB+XLR](https://amzn.to/3eX8KHK)
 * [SHURE XLR microphones](https://ebay.us/RHISva)
 
 ### Headsets
