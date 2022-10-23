@@ -141,8 +141,15 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 
 # Cybersecurity and Cryptography
 
-## 2FA and hardware security
+## Privacy-aware notebooks (
+* [Minifree](https://minifree.org/) - secure high-qualiy modded Lenovo T440p, X230 with osboot (based on coreboot) and 5 years of warranty
+* [NitroPad](https://www.nitrokey.com/news/2020/nitropad-secure-laptop-unique-tamper-detection) - Secure Laptop With Unique Tamper Detection (ThinkPad X230)
+* [Vikings RYF Respects Your Freedom Notebooks](https://store.vikings.net/en/ryf) - these are excellent devices such as X200. The T440, the X230 and others are listed as "libre-friendly laptops".  
 
+## TRNG hardware random number generators
+
+## 2FA and hardware security
+* [Nitrokey](https://www.nitrokey.com/#comparison) - Open Source Hardware 2FA and key storage
 * [Trezor Hardware Wallet](https://shop.trezor.io/product/trezor-one-black?offer_id=35&aff_id=6069)
 * [Ledger Hardware Wallet](https://shop.ledger.com?r=eb1e)
   * [Ledger Nano-S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus?r=eb1e)
