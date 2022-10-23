@@ -80,6 +80,7 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 ### Keyboards
 * [Keychron C2 Full Size Mechanical Keyboard](https://amzn.to/3Tr2rLG)
 * [Durgod Taurus K320 TKL Mechanical Keyboard)](https://amzn.to/3KvYVuP) - Double Shot PBT, USB Type C, Cherry Brown switches
+* [ZSA Moonlander](https://www.zsa.io/moonlander/) and the [ErgoDox FT](https://falba.tech/customize-your-keyboard/customize-your-ergodox/) are excellent ergonomic split keyboards.
 * [HHKB Happy Hacking Keyboards](https://ebay.us/qltUzC) - Topre switches, collector's items Japanese quality keyboards for enthusiasts.
 
 ### Mice
