@@ -119,13 +119,14 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 ### Soundcards
 * [Focusrite Scarlett Solo 3rd Gen USB Audio Interface](https://amzn.to/3jm0CPt)
 * [ASUS Xonar DX 7.1, PCIe x1 (90-YAA060–1UAN00Z)](https://ebay.us/kHExTI)
-* [Native Instruments Audio 8 DJ USB](https://ebay.us/XFMiU9) - 8 inputs, 8 outputs. Toggleable phono preamps on 4 inputs.
+* [Native Instruments Audio 8 DJ USB](https://ebay.us/XFMiU9) - 8 inputs, 8 outputs. Toggleable phono preamps on 4 inputs. Any Linux build with Kernel 2.6.22 will support the Audio 8 DJ natively ([source](https://www.native-instruments.com/forum/threads/audio-8-linux-support.56382/)).
 
 ### Microphones
 * [SHURE MV7 motiv podcasting microphone USB+XLR](https://amzn.to/3eX8KHK)
 * [SHURE XLR microphones](https://ebay.us/RHISva)
 
 ### Headsets
+* [Cooler Master MH630](https://amzn.to/3SuBvJz) is a very affordable and excellent headset, for $45! The microphone sounds great, even beating more expensive options.
 * [Beyerdynamic DT-770 Pro](https://ebay.us/3bkW9C) - the reference headset in 32, 80 and 250 Ohms
 * [Austrian Audio Hi-X25BT Professional Closed-Back Bluetooth Headphones](https://ebay.us/DXiAHD) - great headset with Bluetooth, USB-C (digital), analogue (3.5mm headphone jack) and included microphone
 * [HP HyperX Cloud Orbit S ](https://ebay.us/Wm02yl) - confirmed to work with Linux [Pipewire and Pulseaudio](https://www.reddit.com/r/linuxhardware/comments/o9hwr1/suggested_headset_with_superior_sound_and_wired/)
