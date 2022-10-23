@@ -78,7 +78,7 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 ## Input devices
 
 ### Keyboards
-
+* [Keychron C2 Full Size Mechanical Keyboard](https://amzn.to/3Tr2rLG)
 * [Durgod Taurus K320 TKL Mechanical Keyboard)](https://amzn.to/3KvYVuP) - Double Shot PBT, USB Type C, Cherry Brown switches
 * [HHKB Happy Hacking Keyboards](https://ebay.us/qltUzC) - Topre switches, collector's items Japanese quality keyboards for enthusiasts.
 
