@@ -29,13 +29,16 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
     + [Headsets](#headsets)
 - [Services and talent](#services-and-talent)
   * [Cloud services and hosting](#cloud-services-and-hosting)
-  * [Freelancers, talent and remote work](#freelancers-talent-and-remote-work)
-- [Cybersecurity and Cryptography](#cybersecurity-and-cryptography)
-  * [2FA and hardware security](#2fa-and-hardware-security)
+  * [Freelancers, talent and remote work](#freelancers--talent-and-remote-work)
 - [Markets](#markets)
   * [Market analytics](#market-analytics)
+  * [Bank Accounts for perpetual travelers and digital nomads](#bank-accounts-for-perpetual-travelers-and-digital-nomads)
   * [Cryptocurrency](#cryptocurrency)
     + [Digital Currency Exchanges](#digital-currency-exchanges)
+- [Cybersecurity and Cryptography](#cybersecurity-and-cryptography)
+  * [Privacy-aware notebooks](#privacy-aware-notebooks)
+  * [TRNG hardware random number generators](#trng-hardware-random-number-generators)
+  * [2FA and hardware security](#2fa-and-hardware-security)
 
 # Hardware
 Overview of hardware suitable for Linux, Mac and Windows. This is a collection of gear that I personally own and have reviewed. Criteria for this list: 
@@ -139,21 +142,6 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 ## Freelancers, talent and remote work
 * [$100 coupon for Fiverr](http://www.fiverr.com/s2/46ef8ec9e7)
 
-# Cybersecurity and Cryptography
-
-## Privacy-aware notebooks (
-* [Minifree](https://minifree.org/) - secure high-qualiy modded Lenovo T440p, X230 with osboot (based on coreboot) and 5 years of warranty
-* [NitroPad](https://www.nitrokey.com/news/2020/nitropad-secure-laptop-unique-tamper-detection) - Secure Laptop With Unique Tamper Detection (ThinkPad X230)
-* [Vikings RYF Respects Your Freedom Notebooks](https://store.vikings.net/en/ryf) - these are excellent devices such as X200. The T440, the X230 and others are listed as "libre-friendly laptops".  
-
-## TRNG hardware random number generators
-
-## 2FA and hardware security
-* [Nitrokey](https://www.nitrokey.com/#comparison) - Open Source Hardware 2FA and key storage
-* [Trezor Hardware Wallet](https://shop.trezor.io/product/trezor-one-black?offer_id=35&aff_id=6069)
-* [Ledger Hardware Wallet](https://shop.ledger.com?r=eb1e)
-  * [Ledger Nano-S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus?r=eb1e)
-
 # Markets
 
 ## Market analytics
@@ -170,3 +158,22 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [Binance Exchange](https://www.binance.com/en/register?ref=Q93IAC37)
 * [Bitfinex](https://www.bitfinex.com/sign-up?refcode=19-lHYAit) - good and solid centralized exchange
 * [Poloniex Crypto exchange](https://poloniex.com/signup?c=Z8MM6FB6)
+
+# Cybersecurity and Cryptography
+
+## Privacy-aware notebooks
+* [Minifree](https://minifree.org/) - secure high-qualiy modded Lenovo T440p, X230 with osboot (based on coreboot) and 5 years of warranty
+* [NitroPad](https://www.nitrokey.com/news/2020/nitropad-secure-laptop-unique-tamper-detection) - Secure Laptop With Unique Tamper Detection (ThinkPad X230)
+* [Vikings RYF Respects Your Freedom Notebooks](https://store.vikings.net/en/ryf) - these are excellent devices such as X200. The T440, the X230 and others are listed as "libre-friendly laptops".  
+
+## TRNG hardware random number generators
+* [ubld.it TrueRNG V3](https://amzn.to/3VXjsii) - USB Hardware Random Number Generator.
+* [OneRNG](https://onerng.info/) - Open Hardware Random Number Generator.
+* [Altus Metrum/ ChaosKey](https://altusmetrum.org/ChaosKey/) - a hardware True Random Number Generator that attaches via USB.
+
+## 2FA and hardware security
+* [Nitrokey](https://www.nitrokey.com/#comparison) - Open Source Hardware 2FA and key storage
+* [Trezor Hardware Wallet](https://shop.trezor.io/product/trezor-one-black?offer_id=35&aff_id=6069)
+* [Ledger Hardware Wallet](https://shop.ledger.com?r=eb1e)
+  * [Ledger Nano-S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus?r=eb1e)
+
