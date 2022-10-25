@@ -51,7 +51,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 
 ## Lab power supply 
 * [DPS3005 Programmable Power Supply](https://amzn.to/3Tsr22B) - variable power supply available for less than $50 with a good set of features. Read background on [hackaday](https://hackaday.com/blog/?s=DPS3005).
-** [DollaTek Cold-Rolled Steel Material DIY Housing Kit for DPS Series](https://amzn.to/3zcRxRC) - enclosure for the DPS3005
+    + [DollaTek Cold-Rolled Steel Material DIY Housing Kit for DPS Series](https://amzn.to/3zcRxRC) - enclosure for the DPS3005
 * [KORAD KA3005P](https://amzn.to/3Tys6St) - Programmable Precision Variable Adjustable 30V, 5A DC Linear Power Supply
 
 ## Chargers
