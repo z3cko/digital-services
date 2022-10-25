@@ -60,9 +60,9 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 
 ## Notebooks
 
-* [Lenovo Thinkpad L14 AMD (Gen1, Gen2 or Gen3)](https://amzn.to/3LVQxoC) - the perfect Linux notebook. A perfect way to upcycle is [buying the L14 or L15 AMD Ryzen second-hand.](https://ebay.us/LMXg1S)
-    + [WD Blue SN570 NVMe SSD 2 TB PCIe 3.0 M.2 2280](https://amzn.to/3rgy0LT)
-    + [2x Crucial RAM 32GB DDR4 3200MHz CL22 (2933MHz or 2666MHz) Laptop Memory CT32G4SFD832A](https://amzn.to/3xi5KMH)
+* [Lenovo Thinkpad L14 AMD (Gen1, Gen2 or Gen3)](https://amzn.to/3LVQxoC) - the perfect Linux notebook. A perfect way to upcycle is [buying the L14 or L15 AMD Ryzen second-hand](https://ebay.us/LMXg1S). Read this [comparison of the Lenovo Thinkpad Gen1 vs Gen2 vs Gen3](https://medium.com/p/3300b0a4055). 
+    + [Kioxia Exceria Plus G2 2 TB PCIe 3.0 M.2 2280](https://amzn.to/3F7TUcc)
+    + [Kingston FURY Impact 64 GB (2x32GB) 3200MHz DDR4 CL20](https://amzn.to/3D0vDBY)
 * [ASUS ROG Strix G15 AMD](https://amzn.to/3z7YyTL) - high performance Linux workstation, with support for Ryzen 9 and 5900HX and Ryzen 9 6900HX. Upgradeable to 64GB RAM. Read the [notes on Reddit](https://www.reddit.com/r/linux_gaming/comments/nb9jw5/linux_on_the_asus_rog_strix_g15/)
 * [ThinkPad X200 Tablet with Coreboot/Libreboot](https://ebay.us/g5KuxN) - hardened high-security Laptop without Intel ME for key generation
 * [GPD Pocket 3](https://ebay.us/aFAg8D) - mini 8" pocket computer [capable of running Linux](https://liliputing.com/2021/11/running-linux-on-the-gpd-pocket-3-mini-laptop.html)
@@ -97,7 +97,6 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 ### Mice
 * [Logitech MX Master 3 Advanced Wireless Mouse](https://amzn.to/3unwsBU) - bluetooth mouse for Linux, Mac, Win, Android and iOS (Linux support via [Solaar](https://github.com/pwr-Solaar/Solaar))
 * [Razer DeathAdder Essential Gaming Mouse](https://amzn.to/3up5RV8) - Razer gaming mouse with full Linux support (Linux support via [openrazer](https://github.com/openrazer/openrazer/))
-
 
 ## Printers
 
