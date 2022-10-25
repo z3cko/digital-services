@@ -54,6 +54,11 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
     + [DollaTek Cold-Rolled Steel Material DIY Housing Kit for DPS Series](https://amzn.to/3zcRxRC) - enclosure for the DPS3005
 * [KORAD KA3005P](https://amzn.to/3Tys6St) - Programmable Precision Variable Adjustable 30V, 5A DC Linear Power Supply
 
+## Tools
+* [Klein Tools 32500](https://amzn.to/3f36WNl) - 11-in-1 Screwdriver / Nut Driver Set, 8 Bits (Phillips, Slotted, Torx, Square), 3 Nut Driver Sizes, Cushion Grip Handle 
+* [Klein Tools 32717](https://amzn.to/3W0NLEF) - precision screwdriver set with case, all-in-one multi-function repair tool kit includes 39 bits for apple products
+* [iFixit Jimmy bundle](https://amzn.to/3zexfXQ) - iFixit Jimmy + Prying and Opening Tool Assortment Bundle
+
 ## Chargers
 * [Anker PowerPort III with PPS Fast Charger Adapter](https://amzn.to/3svfpfA) - 65W USB-C charger with Power Delivery and 3-Port PPS Fast Charger
 * [Razer USB-C 130W GaN Charger ](https://amzn.to/3gGtap1) - PD 3.0 130W charger with global compatibility (UK, EU, US)
