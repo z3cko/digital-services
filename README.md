@@ -57,6 +57,7 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 ## Chargers
 * [Anker PowerPort III with PPS Fast Charger Adapter](https://amzn.to/3svfpfA) - 65W USB-C charger with Power Delivery and 3-Port PPS Fast Charger
 * [Razer USB-C 130W GaN Charger ](https://amzn.to/3gGtap1) - PD 3.0 130W charger with global compatibility (UK, EU, US)
+* [Amazon Basics 68W Two-Port GaN USB-C Wall Charger (50W + 18W)](https://amzn.to/3Fj5d19) - cheap PD 3.0 69W charger
 
 ## Notebooks
 
