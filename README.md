@@ -43,12 +43,19 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
 # Hardware
 Overview of hardware suitable for Linux, Mac and Windows. This is a collection of gear that I personally own and have reviewed. Criteria for this list: 
 
-* **compatibility**: hardware needs to work with Linux as well as with Mac OS X.
+* **compatibility**: hardware needs to work with Linux as well as with Mac OS X. Lab equipment should work with [SIGROK](https://sigrok.org/wiki/Main_Page).
 * **open**: gear needs to be as open as possible (ideally open source hardware or fully open repair manuals available).
 * **durability**: should be proven long-lasting gear.
+* **reparability**: devices should be well-documented and easy to repair.
+* **hackability**: devices should be hackable and extensible.
+
+## Power supply 
+* [DPS3005 Programmable Power Supply](https://amzn.to/3Tsr22B) - variable power supply available for less than $50 with a good set of features. Read background on [hackaday](https://hackaday.com/blog/?s=DPS3005).
+* [DollaTek Cold-Rolled Steel Material DIY Housing Kit for DPS Series](https://amzn.to/3zcRxRC) - enclosure for the DPS3005
 
 ## Chargers
-* [Anker PowerPort III Nano](https://amzn.to/3QfdExM) - best 20W USB-C charger with Power Delivery
+* [Anker PowerPort III with PPS Fast Charger Adapter](https://amzn.to/3svfpfA) - 65W USB-C charger with Power Delivery and 3-Port PPS Fast Charger
+* [Razer USB-C 130W GaN Charger ](https://amzn.to/3gGtap1) - PD 3.0 130W charger with global compatibility (UK, EU, US)
 
 ## Notebooks
 
