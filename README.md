@@ -1,19 +1,31 @@
+
 # Tools and services for the Nomad Nerd
 
-Curated list of tools and services for the digital nomad and travelling nerd. Including bitcoin, crypto, diy and hardware. 
+Curated list of tools and services for the digital nomad and travelling nerd. Including lab gear, mobile equipment and hardware which is researched thoroughly. I own this equipment and have experience with it. Please do ask questions or comment on [Twitter](https://twitter.com/audiores), [Reddit](https://www.reddit.com/user/Character_Infamous) or [Medium](https://opengears.medium.com/https://opengears.medium.com/https://opengears.medium.com/) if you want to talk!
 [Please enter additions, suggestions, errors and other things via Github Issues.](https://github.com/z3cko/digital-services/issues)
 
-You can read my articles on my blog at [opengears.medium.com](https://opengears.medium.com/)
+You can read my articles on my blog at [opengears.medium.com](https://opengears.medium.com/). The main articles informing this list are:
+* [Wi-Fi 6E and Bluetooth 5.3 on Linux: overview of supported dongles and chipsets (M.2, PCIe and USB)](https://medium.com/codex/bluetooth-5-on-linux-overview-of-kernel-supported-dongles-and-chipsets-c6f2b632b236)
+* [The Quest for a Good AMD Ryzen Notebook With Linux Support – Winners: Lenovo ThinkPad L14 and L15 (2022 update)](https://medium.com/swlh/the-quest-for-a-good-amd-ryzen-notebook-with-linux-support-winner-lenovo-thinkpad-l15-84a12edf510e)
+* [Lenovo L14 AMD G1, G2, G3: which is the better mobile Ryzen choice for 2023? (the answer is not obvious)](https://medium.com/codex/lenovo-l14-amd-g1-vs-gen2-vs-gen3-which-is-the-better-mobile-ryzen-choice-for-2023-3300b0a4055)
+* [Open-Source Hardware for a better Future of Repair](https://medium.com/codex/open-source-hardware-for-a-better-future-of-repair-international-repair-day-on-sat-15-october-2022-b0c28af169d6)
+* [3 printers with repairable hardware: refurbished hacks and tweaks to optimize the office](https://opengears.medium.com/printer-suggestions-maximum-repairability-refillable-by-design-and-durable-printers-for-home-1dccf31efdc1)
+* [Remote office work in the pandemic: document feeders, document scanners, and a few hacks for cheaper solutions for digitization](https://opengears.medium.com/remote-office-work-in-the-pandemic-document-feeders-document-scanners-and-a-few-hacks-for-2b285c22f7e1)
 
-- [Tools and services for the Nomad Nerd](#tools-and-services-for-the-nomad-nerd)
+# Table of contents
+- [Tools for repairing, modding, and building](#tools-for-repairing--modding--and-building)
+  * [Lab power supply](#lab-power-supply)
+  * [Repair tools](#repair-tools)
 - [Hardware](#hardware)
-  * [Chargers](#chargers)
   * [Notebooks](#notebooks)
+  * [Chargers](#chargers)
   * [Mobile phones and tablets](#mobile-phones-and-tablets)
+- [Wireless](#wireless)
+  * [Wi-Fi 6E and Bluetooth 5.3](#wi-fi-6e-and-bluetooth-53)
   * [Libre wireless routers](#libre-wireless-routers)
     + [OpenWRT compatible routers](#openwrt-compatible-routers)
     + [LibreCMC (de-blobbed libre Linux)](#librecmc--de-blobbed-libre-linux-)
-  * [Input devices](#input-devices)
+- [Computer gear](#computer-gear)
     + [Keyboards](#keyboards)
     + [Mice](#mice)
   * [Printers](#printers)
@@ -30,7 +42,7 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
 - [Services and talent](#services-and-talent)
   * [Cloud services and hosting](#cloud-services-and-hosting)
   * [Freelancers, talent and remote work](#freelancers--talent-and-remote-work)
-- [Markets](#markets)
+- [Banking, trading and crypto](#banking--trading-and-crypto)
   * [Market analytics](#market-analytics)
   * [Bank Accounts for perpetual travelers and digital nomads](#bank-accounts-for-perpetual-travelers-and-digital-nomads)
   * [Cryptocurrency](#cryptocurrency)
@@ -40,32 +52,33 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
   * [TRNG hardware random number generators](#trng-hardware-random-number-generators)
   * [2FA and hardware security](#2fa-and-hardware-security)
 
-# Hardware
-Overview of hardware suitable for Linux, Mac and Windows. This is a collection of gear that I personally own and have reviewed. Criteria for this list: 
 
-* **compatibility**: hardware needs to work with Linux as well as with Mac OS X. Lab equipment should work with [SIGROK](https://sigrok.org/wiki/Main_Page).
-* **open**: gear needs to be as open as possible (ideally open source hardware or fully open repair manuals available).
-* **durability**: should be proven long-lasting gear.
-* **reparability**: devices should be well-documented and easy to repair.
-* **hackability**: devices should be hackable and extensible.
+# Tools for repairing, modding, and building
 
 ## Lab power supply 
 * [DPS3005 Programmable Power Supply](https://amzn.to/3Tsr22B) - variable power supply available for less than $50 with a good set of features. Read background on [hackaday](https://hackaday.com/blog/?s=DPS3005).
     + [DollaTek Cold-Rolled Steel Material DIY Housing Kit for DPS Series](https://amzn.to/3zcRxRC) - enclosure for the DPS3005
 * [KORAD KA3005P](https://amzn.to/3Tys6St) - Programmable Precision Variable Adjustable 30V, 5A DC Linear Power Supply
 
-## Tools
+## Repair tools
 * [Klein Tools 32500](https://amzn.to/3f36WNl) - 11-in-1 Screwdriver / Nut Driver Set, 8 Bits (Phillips, Slotted, Torx, Square), 3 Nut Driver Sizes, Cushion Grip Handle 
 * [Klein Tools 32717](https://amzn.to/3W0NLEF) - precision screwdriver set with case, all-in-one multi-function repair tool kit includes 39 bits for apple products
 * [iFixit Jimmy bundle](https://amzn.to/3zexfXQ) - iFixit Jimmy + Prying and Opening Tool Assortment Bundle
+* [PINECIL Smart Mini Portable Soldering Iron](https://pine64.com/product/pinecil-smart-mini-portable-soldering-iron/) - pinecil is a small soldering iron with a RISC-V Bouffalo BL-706, USB-C.
 
-## Chargers
-* [Anker PowerPort III with PPS Fast Charger Adapter](https://amzn.to/3svfpfA) - 65W USB-C charger with Power Delivery and 3-Port PPS Fast Charger
-* [Razer USB-C 130W GaN Charger ](https://amzn.to/3gGtap1) - PD 3.0 130W charger with global compatibility (UK, EU, US)
-* [Amazon Basics 68W Two-Port GaN USB-C Wall Charger (50W + 18W)](https://amzn.to/3Fj5d19) - cheap PD 3.0 69W charger
+# Hardware
+Overview of hardware suitable for Linux, Mac, and Windows. This is a collection of gear that I own and have reviewed. Criteria for this list: 
+
+* **compatibility**: hardware needs to work with Linux as well as with Mac OS X. Lab equipment should work with [SIGROK](https://sigrok.org/wiki/Main_Page).
+* **open**: gear needs to be as open as possible (ideally open-source hardware or fully open repair manuals available).
+* **durability**: should be proven long-lasting gear.
+* **reparability**: devices should be well-documented and easy to repair.
+* **hackability**: devices should be hackable and extensible.
+* **mobility**: the gear should be able to be moved around in the world. This sometimes is an oxymoron, but the main focus is on mobile equipment.
+
+
 
 ## Notebooks
-
 * [Lenovo Thinkpad L14 AMD (Gen1, Gen2 or Gen3)](https://amzn.to/3LVQxoC) - the perfect Linux notebook. A perfect way to upcycle is [buying the L14 or L15 AMD Ryzen second-hand](https://ebay.us/LMXg1S). Read this [comparison of the Lenovo Thinkpad Gen1 vs Gen2 vs Gen3](https://medium.com/p/3300b0a4055). 
     + [Kioxia Exceria Plus G2 2 TB PCIe 3.0 M.2 2280](https://amzn.to/3F7TUcc)
     + [Kingston FURY Impact 64 GB (2x32GB) 3200MHz DDR4 CL20](https://amzn.to/3D0vDBY)
@@ -73,12 +86,24 @@ Overview of hardware suitable for Linux, Mac and Windows. This is a collection o
 * [ThinkPad X200 Tablet with Coreboot/Libreboot](https://ebay.us/g5KuxN) - hardened high-security Laptop without Intel ME for key generation
 * [GPD Pocket 3](https://ebay.us/aFAg8D) - mini 8" pocket computer [capable of running Linux](https://liliputing.com/2021/11/running-linux-on-the-gpd-pocket-3-mini-laptop.html)
 
+## Chargers
+* [Anker PowerPort III with PPS Fast Charger Adapter](https://amzn.to/3svfpfA) - 65W USB-C charger with Power Delivery and 3-Port PPS Fast Charger
+* [Razer USB-C 130W GaN Charger ](https://amzn.to/3gGtap1) - PD 3.0 130W charger with global compatibility (UK, EU, US)
+* [Amazon Basics 68W Two-Port GaN USB-C Wall Charger (50W + 18W)](https://amzn.to/3Fj5d19) - cheap PD 3.0 69W charger
+
 ## Mobile phones and tablets
 * [Hardened Google Pixel 6](https://ebay.us/N1S3Xm) - make sure to install CalyxOS or GrapheneOS.
 * [PinePhone Linux Phone](https://ebay.us/zuSgE3) - Quad-Core Allwinner A64 @ 1.152 GHz; you can [get more information at the Pine64 website](https://www.pine64.org/pinephone/)
 
-## Libre wireless routers
+# Wireless
 
+## Wi-Fi 6E and Bluetooth 5.3
+
+* [**Intel AX210NGW** (NGFF M2 2230 A/E key) with WiFi (6GHz, 5GHz and 2.4GHz) and Bluetooth 5.3](https://ebay.us/noiceB) - the only recommendable NGFF Wi-Fi 6E + Bluetooth 5.3 adapter that works for notebooks and desktops and is fully Linux supported.
+* [NGFF (M.2) to PCI-E 1X adapter](https://ebay.us/rr6yDD) - if you need a PCIe adapter to mount NGFF in you desktop
+* [**Edimax BT-8500**](https://www.edimax.com/edimax/merchandise/merchandise_detail/data/edimax/global/bluetooth/bt-8500/) - Bluetooth 5 USB dongle (RTL8761B) [working since Kernel 5.8 with A2DP and HSP/HFP](https://www.reddit.com/r/linux/comments/qymjpl/edimax_bt8500_usb_blueooth_50_that_works/).
+
+## Libre wireless routers
 Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and [OpenWRT](https://openwrt.org/). 
 
 ### OpenWRT compatible routers
@@ -92,8 +117,7 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [TP-Link TL-WR1043ND](https://ebay.us/4ewRo2)
 
 
-## Input devices
-
+# Computer gear
 ### Keyboards
 * [Keychron C2 Full Size Mechanical Keyboard](https://amzn.to/3Tr2rLG)
 * [Durgod Taurus K320 TKL Mechanical Keyboard)](https://amzn.to/3KvYVuP) - Double Shot PBT, USB Type C, Cherry Brown switches
@@ -155,14 +179,14 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 ## Freelancers, talent and remote work
 * [$100 coupon for Fiverr](http://www.fiverr.com/s2/46ef8ec9e7)
 
-# Markets
+# Banking, trading and crypto
 
 ## Market analytics
 * [Tradingview](https://www.tradingview.com/gopro/?share_your_love=audioreservoir) - here is a $30 coupon for TradingView
 
 ## Bank Accounts for perpetual travelers and digital nomads
 * [Revolut](https://revolut.com/referral/matthilu1) $50 signup discount for Revolut Bank
-* [Wirex](https://wirexapp.com/r/rdncecnm2u) - great Fiat<>Crypto service based in the UK. Also available for EU banking (including Visa card)
+* [Wirex](https://wirexapp.com/r/rdncecnm2u) - great Fiat<>Crypto service based in the UK. Available for EU banking (including Visa card)
 
 ## Cryptocurrency
 
@@ -189,4 +213,3 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [Trezor Hardware Wallet](https://trezor.go2cloud.org/aff_c?offer_id=133&aff_id=6069) - Open Source Hardware cryptocurrency wallet
 * [Ledger Hardware Wallet](https://shop.ledger.com?r=eb1e)
   * [Ledger Nano-S Plus](https://shop.ledger.com/pages/ledger-nano-s-plus?r=eb1e)
-
