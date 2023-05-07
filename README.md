@@ -124,9 +124,10 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [ZSA Moonlander](https://www.zsa.io/moonlander/) and the [ErgoDox FT](https://falba.tech/customize-your-keyboard/customize-your-ergodox/) are excellent ergonomic split keyboards.
 * [HHKB Happy Hacking Keyboards](https://ebay.us/qltUzC) - Topre switches, collector's items Japanese quality keyboards for enthusiasts.
 
-### Mice
+### Mice and Trackpads (HID)
 * [Logitech MX Master 3 Advanced Wireless Mouse](https://amzn.to/3unwsBU) - bluetooth mouse for Linux, Mac, Win, Android and iOS (Linux support via [Solaar](https://github.com/pwr-Solaar/Solaar))
 * [Razer DeathAdder Essential Gaming Mouse](https://amzn.to/3up5RV8) - Razer gaming mouse with full Linux support (Linux support via [openrazer](https://github.com/openrazer/openrazer/))
+* [Apple Magic Trackpad 2 (2022)](https://amzn.to/3M5aJYp) - the Apple Magic Trackpad works on Linux, but you have to [tweak the xinput configuration](https://superuser.com/questions/1705684/does-the-apple-magic-trackpad-2-work-on-linux)
 
 ## Printers
 
