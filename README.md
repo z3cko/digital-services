@@ -83,6 +83,7 @@ Overview of hardware suitable for Linux, Mac, and Windows. This is a collection 
     + [Kioxia Exceria Plus G2 2 TB PCIe 3.0 M.2 2280](https://amzn.to/3F7TUcc)
     + [Kingston FURY Impact 64 GB (2x32GB) 3200MHz DDR4 CL20](https://amzn.to/3D0vDBY)
 * [ASUS ROG Strix G15 AMD](https://amzn.to/3z7YyTL) - high performance Linux workstation, with support for Ryzen 9 and 5900HX and Ryzen 9 6900HX. Upgradeable to 64GB RAM. Read the [notes on Reddit](https://www.reddit.com/r/linux_gaming/comments/nb9jw5/linux_on_the_asus_rog_strix_g15/)
+* [HP EliteBook 865 G10, Ryzen](https://amzn.to/442NYua) - The HP Elite Book 865 G10 is available with AMD Ryzen 7540U,, 7840U, and 7940HS. It features two (!) USB4 ports, a 1000cd/​m² bright screen, and has a maximum of 64GB RAM. 
 * [ThinkPad X200 Tablet with Coreboot/Libreboot](https://ebay.us/g5KuxN) - hardened high-security Laptop without Intel ME for key generation
 * [GPD Pocket 3](https://ebay.us/aFAg8D) - mini 8" pocket computer [capable of running Linux](https://liliputing.com/2021/11/running-linux-on-the-gpd-pocket-3-mini-laptop.html)
 
