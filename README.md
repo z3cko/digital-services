@@ -83,8 +83,8 @@ Overview of hardware suitable for Linux, Mac, and Windows. This is a collection 
     + [Kioxia Exceria Plus G2 2 TB PCIe 3.0 M.2 2280](https://amzn.to/3F7TUcc)
     + [Kingston FURY Impact 64 GB (2x32GB) 3200MHz DDR4 CL20](https://amzn.to/3D0vDBY)
 * [ASUS ROG Strix G15 AMD](https://amzn.to/3z7YyTL) - high performance Linux workstation, with support for Ryzen 9 and 5900HX and Ryzen 9 6900HX. Upgradeable to 64GB RAM. Read the [notes on Reddit](https://www.reddit.com/r/linux_gaming/comments/nb9jw5/linux_on_the_asus_rog_strix_g15/)
-* [HP EliteBook 865 G10, Ryzen](https://amzn.to/442NYua) - The HP Elite Book 865 G10 is available with AMD Ryzen 7540U,, 7840U, and 7940HS. It features two (!) USB4 ports, a 1000cd/​m² bright screen, and has a maximum of 64GB RAM. 
-* [ASUS TUF Gaming Advantage A16](https://amzn.to/3XqmhcB) - Ryzen 9 7940HS Zen4, DDR5, Radeon RX 7600S with Navi 33 LE (see [Asus product page](https://www.asus.com/de/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a16-advantage-edition-2023/))
+* [HP EliteBook 865 G10, Ryzen](https://amzn.to/442NYua) - The HP Elite Book 865 G10 is available with AMD Ryzen 7540U, 7840U, and 7940HS. It features two (!) USB4 ports, a 1000cd/​m² bright screen, and has a maximum of 64GB RAM. 
+* [ASUS TUF Gaming Advantage A16](https://amzn.to/3XqmhcB) - Ryzen 9 7940HS ZEN4, DDR5, Radeon RX 7600S with Navi 33 LE (see [Asus product page](https://www.asus.com/de/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-a16-advantage-edition-2023/)). 2x 
 * [ThinkPad X200 Tablet with Coreboot/Libreboot](https://ebay.us/g5KuxN) - hardened high-security Laptop without Intel ME for key generation
 * [GPD Pocket 3](https://ebay.us/aFAg8D) - mini 8" pocket computer [capable of running Linux](https://liliputing.com/2021/11/running-linux-on-the-gpd-pocket-3-mini-laptop.html)
 
@@ -99,7 +99,7 @@ Overview of hardware suitable for Linux, Mac, and Windows. This is a collection 
 
 # Wireless
 
-## Wi-Fi 6E and Bluetooth 5.3
+## Wi-Fi 6E and Bluetooth 5.4
 
 * [**Intel AX210NGW** (NGFF M2 2230 A/E key) with WiFi (6GHz, 5GHz and 2.4GHz) and Bluetooth 5.3](https://ebay.us/noiceB) - the only recommendable NGFF Wi-Fi 6E + Bluetooth 5.3 adapter that works for notebooks and desktops and is fully Linux supported.
 * [NGFF (M.2) to PCI-E 1X adapter](https://ebay.us/rr6yDD) - if you need a PCIe adapter to mount NGFF in you desktop
