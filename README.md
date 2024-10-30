@@ -153,8 +153,8 @@ Wireless routers which are compatible with [LibreCMC](https://librecmc.org/) and
 * [Apple Magic Trackpad 2 (2022)](https://amzn.to/3M5aJYp) - the Apple Magic Trackpad works on Linux, but you have to [tweak the xinput configuration](https://superuser.com/questions/1705684/does-the-apple-magic-trackpad-2-work-on-linux)
 
 ## Printers
-### dot matrix
-* 
+### Dot Matrix Printers
+* [Epson LX-350 printer](https://amzn.to/4eUEqat)
 ### Inkjet
 * [Epson EcoTank ET-2750](https://ebay.us/rGc0bg)
 
