@@ -112,7 +112,7 @@ You can read my articles on my blog at [opengears.medium.com](https://opengears.
 * [Amazon Basics 68W Two-Port GaN USB-C Wall Charger (50W + 18W)](https://amzn.to/3Fj5d19) - cheap PD 3.0 69W charger
 
 ## Mobile phones and tablets
-* 
+* [OnePlus 6 (oneplus-enchilada)](https://wiki.postmarketos.org/wiki/OnePlus_6_(oneplus-enchilada))
 * [Hardened Google Pixel 6](https://ebay.us/N1S3Xm) - make sure to install CalyxOS or GrapheneOS.
 * [PinePhone Linux Phone](https://ebay.us/zuSgE3) - Quad-Core Allwinner A64 @ 1.152 GHz; you can [get more information at the Pine64 website](https://www.pine64.org/pinephone/)
 
