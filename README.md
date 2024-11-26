@@ -1,6 +1,11 @@
 # Open tools for the Nomad Nerd
 Curated list of tools and services for the digital nomad and travelling nerd. Including lab gear, mobile equipment and hardware which is researched thoroughly. I own this equipment and have experience with it. Contact via [Twitter](https://twitter.com/audiores), [Reddit](https://www.reddit.com/user/Character_Infamous) or [Medium](https://opengears.medium.com/https://opengears.medium.com/https://opengears.medium.com/). [Please enter additions, suggestions, errors and other things via Github Issues.](https://github.com/z3cko/digital-services/issues)
 
+# Black Friday 2024 list
+* [Ledger Flex Harware Crypto Wallet with $70 BTC Bitcoin Voucher](https://shop.ledger.com/pages/black-friday?r=eb1e)
+* [Google Pixel 6A](https://amzn.to/3Za7ELM) for $239 and [Google Pixel 9](https://amzn.to/3YZkKeE) on Amazon US and DE
+* [WD_Black SN850X m.2 NVMe SSD with Heatsink 8 TB ](https://amzn.to/4fNt1Ka) 
+
 # Hardware
 Overview of hardware suitable for Linux, Mac, and Windows. This is a collection of gear that I own and have reviewed. Criteria for this list: 
 * **compatibility**: hardware needs to work with Linux as well as with Mac OS X. Lab equipment should work with [SIGROK](https://sigrok.org/wiki/Main_Page).
